@@ -47,4 +47,4 @@ Directus is free and open-source, with an active community and enterprise-grade 
 ### Business Intelligence: 
 - Enables companies to manage and visualize relational data from multiple sources.
 
-
+`updated something`
